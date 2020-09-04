@@ -1,4 +1,4 @@
-﻿Country; Gold; Silver; Bronze
+Country;Gold;Silver;Bronze
 United States;1008;811;700
 Soviet Union;473;376;356
 Germany;259;282;283
@@ -23,7 +23,6 @@ Austria;69;97;105
 West Germany;67;82;94
 Cuba;66;62;60
 Poland;63;83;123
-Commonwealth of Inde...;54;44;37
 Bulgaria;52;86;79
 Czechoslovakia;51;56;60
 Denemark;41;64;66
